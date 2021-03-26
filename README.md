@@ -1,4 +1,4 @@
-<h1 align="center">TP Final IOT Ynov 👨‍💻📚</h1>
+<h1 align="center">TP Final IOT Ynov 📚👨‍💻</h1>
 An IOT project who connect an Arduino with an temperaure sensor to an Raspberry Pi 3.
 
 <br/>
@@ -14,7 +14,21 @@ An IOT project who connect an Arduino with an temperaure sensor to an Raspberry 
 <br/>
 <br/>
 
-## Maintainers
+## 📚 TODO
+#### 📝 Exercice 1 - Capteur sur l'arduino
+- Branchement
+- Récupération de la valeur toutes les 500ms
+#### 📝 Exercice 2 - Allumer une LED à chaque mesure pendant 200ms
+#### 📝 Exercice 3 - Connecter un Raspberry à l'arduino
+- Avec un cable USB ou par les GPIO
+- Transmettre les valeurs au Raspberry
+#### 📝 Exercice 4 - Ecrire un programme dans le langage de votre choix qui lira la valeur du capteur
+
+#### 🎁 Exercice 5 - Bonus: Ecrire un serveur Web qui expose la valeur sur une API (langage de votre choix)
+
+#### 🎁 Exercice 6 - Bonus: Permettre via l'API du Raspberry, d'inverser le clignotement de la LED (reste allumée en permanence mais s'éteint 200ms à chaque mesure)
+
+## 👨‍💻 Maintainers
 This project is mantained by:
 * [Baptiste LECHAT - baptistelechat](https://github.com/baptistelechat)
 * [Léopold BRIAND - LeopoldBriand-bot](https://github.com/LeopoldBriand-bot)
