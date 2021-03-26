@@ -9,7 +9,7 @@ void setup() {
 }
 
 void loop() {
-  delay(500);
+  delay(300);
   sensorValue = formatTemp(analogRead(sensorPin));
   Serial.println(sensorValue);
   digitalWrite(ledPin, HIGH);
