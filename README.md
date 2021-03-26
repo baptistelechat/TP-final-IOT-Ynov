@@ -4,7 +4,7 @@ An IOT project who connect an Arduino with an temperaure sensor to an Raspberry 
 <br/>
 <br/>
 
-<img src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png" height="75" align="right" style="padding-left:16px">
+<img src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png" height="85" align="right" style="padding-left:16px">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="75" align="right" style="padding-left:16px">
 
